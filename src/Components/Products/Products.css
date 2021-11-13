@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran&family=Roboto&display=swap');
+@import url( 'https://pro.fontawesome.com/releases/v5.10.0/css/all.css');
+.deals-text{
+    height: 80px;
+    display: flex;
+    padding-left: 4%;
+}
+.deals-text h1{
+    font-family: 'Roboto', sans-serif; 
+    color: #201E1C;
+}
+.deals-image{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+.deals-image img{
+    width: 230px;
+    height: 100%;
+    
+}
+.ctb-text{
+    height: 80px;
+    display: flex;
+    padding-left: 4%;
+}
+.ctb-text h1{
+    font-family: 'Roboto', sans-serif; 
+    color: #201E1C;
+}
+.ctb-image{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.ctb-image img{
+    width: 200px;
+    height: 100%;
+    
+}

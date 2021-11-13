@@ -1,0 +1,76 @@
+.footer{
+    height:400px ;
+    width: 100%;
+    background-color: #FAFBFC;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.Footer-sec{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%; 
+    width: 100%; 
+    margin-right: 8%;
+    justify-content: space-around;
+    
+}
+.Onlineshopping1{
+    width: 15%;
+    padding-left: 65px;
+}
+.Usefullinks1{
+    width: 10%;
+}
+.links{
+    width: 100%;
+}
+.links a{
+    text-decoration: none;
+    color: gray;
+    line-height: 1.6;
+}
+.Experienceapp1{
+    width: 20%;
+
+}
+.playstore{
+    display: flex;
+    margin-top: 10px;
+}
+.plystr img{
+    width: 150px;
+}
+.plystr2 img{
+    width: 130px;
+}
+.Warranty1{
+    width: 25%;
+}
+.links2{
+    margin-top: 10px;
+}
+.Socilico{
+    display: flex;
+    padding-top: 5px;
+    
+}
+.plystr i{
+    margin-left: 15px;
+}
+.original{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.original .txt{
+    margin-left: 20px;
+}
+.return{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.return .txt{
+    margin-left: 20px;
+}

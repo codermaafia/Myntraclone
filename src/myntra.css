@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran&family=Roboto&display=swap');
+@import url( 'https://pro.fontawesome.com/releases/v5.10.0/css/all.css');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;    
+}
+
+
